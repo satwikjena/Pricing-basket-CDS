@@ -2,7 +2,6 @@
 """
 Created on Mon Jul  5 17:10:39 2021
 
-@author: Beta
 """
 
 import numpy as np # arrays and basic maths
